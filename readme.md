@@ -1,8 +1,7 @@
 ## Cloud Engineer
 <li>Job Seeker</li>
 <br />
-<br />
-<br />
+
 
 ## Skills
 <ul>
@@ -10,3 +9,4 @@
   <li>Dokcer</li>
   <li>Kubernetes</li>
 </ul>
+<br />
