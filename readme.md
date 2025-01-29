@@ -4,7 +4,7 @@
 <br />
 <br />
 
-## Cloud Engineer
+## Skills
 <ul>
   <li>AWS</li>
   <li>Dokcer</li>
